@@ -1,0 +1,10 @@
+C:\Users\tejaswiniam\Desktop\training\assignment6\assignment6\bin\Debug\assignment6.exe.config
+C:\Users\tejaswiniam\Desktop\training\assignment6\assignment6\bin\Debug\assignment6.exe
+C:\Users\tejaswiniam\Desktop\training\assignment6\assignment6\bin\Debug\assignment6.pdb
+C:\Users\tejaswiniam\Desktop\training\assignment6\assignment6\bin\Debug\concessionexample.dll
+C:\Users\tejaswiniam\Desktop\training\assignment6\assignment6\bin\Debug\concessionexample.pdb
+C:\Users\tejaswiniam\Desktop\training\assignment6\assignment6\obj\Debug\assignment6.csproj.AssemblyReference.cache
+C:\Users\tejaswiniam\Desktop\training\assignment6\assignment6\obj\Debug\assignment6.csproj.CoreCompileInputs.cache
+C:\Users\tejaswiniam\Desktop\training\assignment6\assignment6\obj\Debug\assignment6.csproj.CopyComplete
+C:\Users\tejaswiniam\Desktop\training\assignment6\assignment6\obj\Debug\assignment6.exe
+C:\Users\tejaswiniam\Desktop\training\assignment6\assignment6\obj\Debug\assignment6.pdb
