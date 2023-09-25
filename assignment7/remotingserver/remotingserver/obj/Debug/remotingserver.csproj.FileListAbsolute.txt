@@ -1,0 +1,7 @@
+C:\Users\tejaswiniam\Desktop\training\assignment7\remotingserver\remotingserver\obj\Debug\remotingserver.csproj.AssemblyReference.cache
+C:\Users\tejaswiniam\Desktop\training\assignment7\remotingserver\remotingserver\obj\Debug\remotingserver.csproj.CoreCompileInputs.cache
+C:\Users\tejaswiniam\Desktop\training\assignment7\remotingserver\remotingserver\bin\Debug\remotingserver.exe.config
+C:\Users\tejaswiniam\Desktop\training\assignment7\remotingserver\remotingserver\bin\Debug\remotingserver.exe
+C:\Users\tejaswiniam\Desktop\training\assignment7\remotingserver\remotingserver\bin\Debug\remotingserver.pdb
+C:\Users\tejaswiniam\Desktop\training\assignment7\remotingserver\remotingserver\obj\Debug\remotingserver.exe
+C:\Users\tejaswiniam\Desktop\training\assignment7\remotingserver\remotingserver\obj\Debug\remotingserver.pdb
