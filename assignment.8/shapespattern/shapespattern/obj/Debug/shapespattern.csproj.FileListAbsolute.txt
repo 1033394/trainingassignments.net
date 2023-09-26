@@ -1,0 +1,2 @@
+C:\Users\tejaswiniam\Desktop\training\assignment.8\shapespattern\shapespattern\obj\Debug\shapespattern.csproj.AssemblyReference.cache
+C:\Users\tejaswiniam\Desktop\training\assignment.8\shapespattern\shapespattern\obj\Debug\shapespattern.csproj.CoreCompileInputs.cache
