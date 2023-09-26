@@ -1,0 +1,2 @@
+C:\Users\tejaswiniam\Desktop\training\assignment7(modified)\remotingclient\remotingclient\obj\Debug\remotingclient.csproj.AssemblyReference.cache
+C:\Users\tejaswiniam\Desktop\training\assignment7(modified)\remotingclient\remotingclient\obj\Debug\remotingclient.csproj.CoreCompileInputs.cache
