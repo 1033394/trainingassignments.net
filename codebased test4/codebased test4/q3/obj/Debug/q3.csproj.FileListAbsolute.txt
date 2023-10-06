@@ -1,7 +1,0 @@
-C:\Users\tejaswiniam\Desktop\training\codebased\codebased test4\codebased test4\q3\bin\Debug\q3.exe.config
-C:\Users\tejaswiniam\Desktop\training\codebased\codebased test4\codebased test4\q3\bin\Debug\q3.exe
-C:\Users\tejaswiniam\Desktop\training\codebased\codebased test4\codebased test4\q3\bin\Debug\q3.pdb
-C:\Users\tejaswiniam\Desktop\training\codebased\codebased test4\codebased test4\q3\obj\Debug\q3.csproj.AssemblyReference.cache
-C:\Users\tejaswiniam\Desktop\training\codebased\codebased test4\codebased test4\q3\obj\Debug\q3.csproj.CoreCompileInputs.cache
-C:\Users\tejaswiniam\Desktop\training\codebased\codebased test4\codebased test4\q3\obj\Debug\q3.exe
-C:\Users\tejaswiniam\Desktop\training\codebased\codebased test4\codebased test4\q3\obj\Debug\q3.pdb
