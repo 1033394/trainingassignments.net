@@ -1,0 +1,7 @@
+C:\Users\tejaswiniam\Desktop\training\trainingday1\assognment3\assognment3\bin\Debug\assognment3.exe.config
+C:\Users\tejaswiniam\Desktop\training\trainingday1\assognment3\assognment3\bin\Debug\assognment3.exe
+C:\Users\tejaswiniam\Desktop\training\trainingday1\assognment3\assognment3\bin\Debug\assognment3.pdb
+C:\Users\tejaswiniam\Desktop\training\trainingday1\assognment3\assognment3\obj\Debug\assognment3.csproj.AssemblyReference.cache
+C:\Users\tejaswiniam\Desktop\training\trainingday1\assognment3\assognment3\obj\Debug\assognment3.csproj.CoreCompileInputs.cache
+C:\Users\tejaswiniam\Desktop\training\trainingday1\assognment3\assognment3\obj\Debug\assognment3.exe
+C:\Users\tejaswiniam\Desktop\training\trainingday1\assognment3\assognment3\obj\Debug\assognment3.pdb
