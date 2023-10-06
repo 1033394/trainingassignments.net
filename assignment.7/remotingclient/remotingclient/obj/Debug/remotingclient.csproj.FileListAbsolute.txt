@@ -1,5 +1,0 @@
-C:\Users\tejaswiniam\Desktop\training\assignment.7\remotingclient\remotingclient\obj\Debug\remotingclient.csproj.AssemblyReference.cache
-C:\Users\tejaswiniam\Desktop\training\assignment.7\remotingclient\remotingclient\obj\Debug\RemotingClient.MainForm.resources
-C:\Users\tejaswiniam\Desktop\training\assignment.7\remotingclient\remotingclient\obj\Debug\remotingclient.Properties.Resources.resources
-C:\Users\tejaswiniam\Desktop\training\assignment.7\remotingclient\remotingclient\obj\Debug\remotingclient.csproj.GenerateResource.cache
-C:\Users\tejaswiniam\Desktop\training\assignment.7\remotingclient\remotingclient\obj\Debug\remotingclient.csproj.CoreCompileInputs.cache

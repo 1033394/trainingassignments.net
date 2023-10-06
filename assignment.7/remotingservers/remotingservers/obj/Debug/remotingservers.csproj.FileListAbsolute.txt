@@ -1,7 +1,0 @@
-C:\Users\tejaswiniam\Desktop\training\assignment.7\remotingservers\remotingservers\bin\Debug\remotingservers.exe.config
-C:\Users\tejaswiniam\Desktop\training\assignment.7\remotingservers\remotingservers\bin\Debug\remotingservers.exe
-C:\Users\tejaswiniam\Desktop\training\assignment.7\remotingservers\remotingservers\bin\Debug\remotingservers.pdb
-C:\Users\tejaswiniam\Desktop\training\assignment.7\remotingservers\remotingservers\obj\Debug\remotingservers.csproj.AssemblyReference.cache
-C:\Users\tejaswiniam\Desktop\training\assignment.7\remotingservers\remotingservers\obj\Debug\remotingservers.csproj.CoreCompileInputs.cache
-C:\Users\tejaswiniam\Desktop\training\assignment.7\remotingservers\remotingservers\obj\Debug\remotingservers.exe
-C:\Users\tejaswiniam\Desktop\training\assignment.7\remotingservers\remotingservers\obj\Debug\remotingservers.pdb
