@@ -1,0 +1,2 @@
+C:\Users\tejaswiniam\Desktop\training\assignment4\q2\obj\Debug\q2.csproj.AssemblyReference.cache
+C:\Users\tejaswiniam\Desktop\training\assignment4\q2\obj\Debug\q2.csproj.CoreCompileInputs.cache
