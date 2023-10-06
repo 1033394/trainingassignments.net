@@ -1,0 +1,53 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace codebased_test3
+{
+    class cricket
+    {
+       public void pointscalculation(int no_of_matches)
+       {
+            int[] scores = new int[no_of_matches];
+            int sum = 0;
+            for(int i=0; i<no_of_matches; i++)
+            {
+                Console.Write($"enter the score for match{i+1}:");
+                if(int.TryParse(Console.ReadLine(),out int score))
+                {
+                    scores[i] = score;
+                    sum += score;
+                }
+                else
+                {
+                    Console.WriteLine("invaild input.please enter a valid score.");
+                    i--;
+                }
+            }
+            double average=(double)sum/no_of_matches;
+            Console.WriteLine($"sum of scores:{sum}");
+            Console.Read();
+            Console.WriteLine($"average of scores:{average:F2}");
+          
+        }
+       
+    }
+    class program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("enter no of matches:");
+            if(int.TryParse(Console.ReadLine(),out int no_of_matches))
+            {
+                cricket cricket = new cricket();
+                cricket.pointscalculation(no_of_matches);
+            }
+            else
+            {
+                Console.WriteLine("invaild input .enter a valid number of matches.");
+            }
+        }
+    }
+}

@@ -1,0 +1,7 @@
+C:\Users\tejaswiniam\Desktop\training\codebased\codebased test4\codebased test4\codebased test4\bin\Debug\codebased test4.exe.config
+C:\Users\tejaswiniam\Desktop\training\codebased\codebased test4\codebased test4\codebased test4\bin\Debug\codebased test4.exe
+C:\Users\tejaswiniam\Desktop\training\codebased\codebased test4\codebased test4\codebased test4\bin\Debug\codebased test4.pdb
+C:\Users\tejaswiniam\Desktop\training\codebased\codebased test4\codebased test4\codebased test4\obj\Debug\codebased test4.csproj.AssemblyReference.cache
+C:\Users\tejaswiniam\Desktop\training\codebased\codebased test4\codebased test4\codebased test4\obj\Debug\codebased test4.csproj.CoreCompileInputs.cache
+C:\Users\tejaswiniam\Desktop\training\codebased\codebased test4\codebased test4\codebased test4\obj\Debug\codebased test4.exe
+C:\Users\tejaswiniam\Desktop\training\codebased\codebased test4\codebased test4\codebased test4\obj\Debug\codebased test4.pdb
