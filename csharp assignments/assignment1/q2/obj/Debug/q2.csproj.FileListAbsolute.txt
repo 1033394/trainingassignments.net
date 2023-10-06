@@ -1,0 +1,7 @@
+C:\Users\tejaswiniam\Desktop\training\trainingday1\day3 assignment\q2\bin\Debug\q2.exe.config
+C:\Users\tejaswiniam\Desktop\training\trainingday1\day3 assignment\q2\bin\Debug\q2.exe
+C:\Users\tejaswiniam\Desktop\training\trainingday1\day3 assignment\q2\bin\Debug\q2.pdb
+C:\Users\tejaswiniam\Desktop\training\trainingday1\day3 assignment\q2\obj\Debug\q2.csproj.AssemblyReference.cache
+C:\Users\tejaswiniam\Desktop\training\trainingday1\day3 assignment\q2\obj\Debug\q2.csproj.CoreCompileInputs.cache
+C:\Users\tejaswiniam\Desktop\training\trainingday1\day3 assignment\q2\obj\Debug\q2.exe
+C:\Users\tejaswiniam\Desktop\training\trainingday1\day3 assignment\q2\obj\Debug\q2.pdb
