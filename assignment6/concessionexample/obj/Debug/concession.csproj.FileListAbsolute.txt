@@ -1,6 +1,0 @@
-C:\Users\tejaswiniam\Desktop\training\assignment6\concessionexample\bin\Debug\concessionexample.dll
-C:\Users\tejaswiniam\Desktop\training\assignment6\concessionexample\bin\Debug\concessionexample.pdb
-C:\Users\tejaswiniam\Desktop\training\assignment6\concessionexample\obj\Debug\concession.csproj.AssemblyReference.cache
-C:\Users\tejaswiniam\Desktop\training\assignment6\concessionexample\obj\Debug\concession.csproj.CoreCompileInputs.cache
-C:\Users\tejaswiniam\Desktop\training\assignment6\concessionexample\obj\Debug\concessionexample.dll
-C:\Users\tejaswiniam\Desktop\training\assignment6\concessionexample\obj\Debug\concessionexample.pdb
