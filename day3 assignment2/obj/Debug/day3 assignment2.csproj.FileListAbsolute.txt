@@ -1,7 +1,0 @@
-C:\Users\tejaswiniam\Desktop\training\trainingday1\day3 assignment2\day3 assignment2\obj\Debug\day3 assignment2.csproj.AssemblyReference.cache
-C:\Users\tejaswiniam\Desktop\training\trainingday1\day3 assignment2\day3 assignment2\obj\Debug\day3 assignment2.csproj.CoreCompileInputs.cache
-C:\Users\tejaswiniam\Desktop\training\trainingday1\day3 assignment2\day3 assignment2\bin\Debug\day3 assignment2.exe.config
-C:\Users\tejaswiniam\Desktop\training\trainingday1\day3 assignment2\day3 assignment2\bin\Debug\day3 assignment2.exe
-C:\Users\tejaswiniam\Desktop\training\trainingday1\day3 assignment2\day3 assignment2\bin\Debug\day3 assignment2.pdb
-C:\Users\tejaswiniam\Desktop\training\trainingday1\day3 assignment2\day3 assignment2\obj\Debug\day3 assignment2.exe
-C:\Users\tejaswiniam\Desktop\training\trainingday1\day3 assignment2\day3 assignment2\obj\Debug\day3 assignment2.pdb
