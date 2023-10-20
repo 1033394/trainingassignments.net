@@ -1,0 +1,7 @@
+C:\Users\tejaswiniam\Desktop\EF\assign1\assign1\obj\Debug\assign1.csproj.AssemblyReference.cache
+C:\Users\tejaswiniam\Desktop\EF\assign1\assign1\obj\Debug\assign1.csproj.CoreCompileInputs.cache
+C:\Users\tejaswiniam\Desktop\EF\assign1\assign1\bin\Debug\assign1.exe.config
+C:\Users\tejaswiniam\Desktop\EF\assign1\assign1\bin\Debug\assign1.exe
+C:\Users\tejaswiniam\Desktop\EF\assign1\assign1\bin\Debug\assign1.pdb
+C:\Users\tejaswiniam\Desktop\EF\assign1\assign1\obj\Debug\assign1.exe
+C:\Users\tejaswiniam\Desktop\EF\assign1\assign1\obj\Debug\assign1.pdb
