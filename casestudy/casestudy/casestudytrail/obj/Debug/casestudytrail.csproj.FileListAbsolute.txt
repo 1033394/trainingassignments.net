@@ -1,7 +1,0 @@
-C:\Users\tejaswiniam\Desktop\casestudytrail\casestudytrail\casestudytrail\obj\Debug\casestudytrail.csproj.AssemblyReference.cache
-C:\Users\tejaswiniam\Desktop\casestudytrail\casestudytrail\casestudytrail\obj\Debug\casestudytrail.csproj.CoreCompileInputs.cache
-C:\Users\tejaswiniam\Desktop\casestudytrail\casestudytrail\casestudytrail\bin\Debug\casestudytrail.exe.config
-C:\Users\tejaswiniam\Desktop\casestudytrail\casestudytrail\casestudytrail\bin\Debug\casestudytrail.exe
-C:\Users\tejaswiniam\Desktop\casestudytrail\casestudytrail\casestudytrail\bin\Debug\casestudytrail.pdb
-C:\Users\tejaswiniam\Desktop\casestudytrail\casestudytrail\casestudytrail\obj\Debug\casestudytrail.exe
-C:\Users\tejaswiniam\Desktop\casestudytrail\casestudytrail\casestudytrail\obj\Debug\casestudytrail.pdb
