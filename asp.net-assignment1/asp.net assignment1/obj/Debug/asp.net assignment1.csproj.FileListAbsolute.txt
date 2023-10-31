@@ -1,0 +1,2 @@
+C:\Users\tejaswiniam\Desktop\training\csharp assignments\asp.net-assignment1\asp.net assignment1\asp.net assignment1\obj\Debug\asp.net assignment1.csproj.AssemblyReference.cache
+C:\Users\tejaswiniam\Desktop\training\csharp assignments\asp.net-assignment1\asp.net assignment1\asp.net assignment1\obj\Debug\asp.net assignment1.csproj.CoreCompileInputs.cache
