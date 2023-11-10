@@ -1,0 +1,26 @@
+﻿@model List<q1.Controllers.Northwind.Customer> 
+
+@{ ViewData["Title"] = "German Customers"; }
+
+<h2>German Customers</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Customer ID</th>
+            <th>Company Name</th>
+            <th>Contact Name</th>
+            <th>Country</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Northwind)
+        {
+<tr>
+    <td>@customer.CustomerID</td>
+    <td>@customer.CompanyName</td>
+    <td>@customer.ContactName</td>
+    <td>@customer.Country</td>
+</tr>        }
+    </tbody>
+</table>

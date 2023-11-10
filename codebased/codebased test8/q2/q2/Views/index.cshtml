@@ -1,0 +1,25 @@
+﻿@model IEnumerable<YourNamespace.Models.Movie>
+
+<h2>Movies List</h2>
+
+<table class="table">
+    <tr>
+        <th>Movie ID</th>
+        <th>Movie Name</th>
+        <th>Date of Release</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var movie in Model)
+    {
+<tr>
+    <td>@movie.Mid</td>
+    <td>@movie.MovieName</td>
+    <td>@movie.DateOfRelease.ToShortDateString()</td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = movie.Mid }) |
+        @Html.ActionLink("Details", "Details", new { id = movie.Mid }) |
+        @Html.ActionLink("Delete", "Delete", new { id = movie.Mid })
+    </td>
+</tr>}
+</table>
